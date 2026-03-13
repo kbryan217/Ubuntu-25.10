@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 # Retrieve a list of the available updates
 sudo  apt update
